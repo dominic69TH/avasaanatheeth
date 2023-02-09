@@ -1,0 +1,10 @@
+{
+    "name": "trx-wallet-generator",
+    "version": "1.0.0",
+    "description": "API for generating TRX wallet addresses",
+    "main": "index.js",
+    "dependencies": {
+      "tronweb": "^2.2.19"
+    }
+  }
+  
